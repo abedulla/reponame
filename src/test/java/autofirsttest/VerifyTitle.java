@@ -38,6 +38,6 @@ public class VerifyTitle {
 		@AfterTest
 		void aftertest() 
 		{
-			
+			System.out.println("aftertest");
 		}
 }
